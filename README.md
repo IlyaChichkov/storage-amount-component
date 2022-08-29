@@ -1,24 +1,50 @@
-# storage-amount-component
+# Data storage component solution
 
-## Project setup
-```
-npm install
-```
+This is a solution to the [Fylo data storage component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n). 
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Table of contents
 
-### Compiles and minifies for production
-```
-npm run build
-```
+- [Overview](#overview)
+    - [The challenge](#the-challenge)
+    - [Screenshot](#screenshot)
+    - [Links](#links)
+- [My process](#my-process)
+    - [Built with](#built-with)
+- [Author](#author)
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Overview
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### The challenge
+
+Users should be able to:
+
+- View the optimal layout for the site depending on their device's screen size
+
+### Screenshot
+
+![](./screenshot.png)
+<img src="./mobile-screenshot.png" width="200px">
+
+### Links
+
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- Mobile-first workflow
+- [VUE](https://vuejs.org/) - VUE framework
+- [Styled Components](https://tailwindcss.ru/) - For styles
+
+### Useful resources
+
+- [Google Fonts](https://fonts.google.com/)
+
+
+## Author
+
+- Frontend Mentor - [@IlyaChichkov](https://www.frontendmentor.io/profile/IlyaChichkov)

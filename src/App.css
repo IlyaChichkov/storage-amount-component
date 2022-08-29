@@ -5,11 +5,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;700');
 
 body{
-    @apply h-screen w-full bg-[url('/src/assets/bg-mobile.png')] bg-cover font-sans;
+    @apply h-screen w-full bg-cover font-sans
+    bg-[url('/src/assets/bg-mobile.png')]
+    sm:bg-dark-blue-200
+    sm:bg-gradient-to-b;
 }
 
 #app{
-    @apply h-full flex flex-col justify-center;
+    @apply h-full flex flex-col justify-center sm:items-center;
 }
 
 p{

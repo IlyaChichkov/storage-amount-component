@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;700');
+
+body{
+    @apply h-screen w-full bg-[url('/src/assets/bg-mobile.png')] bg-cover font-sans;
+}
+
+#app{
+    @apply h-full flex flex-col justify-center;
+}
+
+p{
+    @apply text-white font-sans font-normal tracking-wide leading-6;
+}
+
+img{
+    @apply max-w-fit;
+}

@@ -38,7 +38,7 @@ Users should be able to:
 - Flexbox
 - Mobile-first workflow
 - [VUE](https://vuejs.org/) - VUE framework
-- [Styled Components](https://tailwindcss.ru/) - For styles
+- [TailwindCSS](https://tailwindcss.ru/) - For styles
 
 ### Useful resources
 
